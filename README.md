@@ -20,7 +20,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-### Interview with [Name Here]
+### Interview with Jacob Chen and Ed Hou
 #### Goals
 - Want movie rating app with social media aspect.
 - Want to easily find information about a movie including director, studio, cast.
