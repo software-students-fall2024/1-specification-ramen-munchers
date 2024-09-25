@@ -50,8 +50,8 @@ We aim to essentially make a social media application for movies; users can gath
 - As a person's friend, I want to be able to see a list of compability between my movie taste and theirs, so that I can figure out who's movie taste is most similar to mine.
 
 ## Activity Diagrams
+![As a person's friend, I want to be able to see a list of compability between my movie taste and theirs](https://ibb.co/x8fFXdN)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
