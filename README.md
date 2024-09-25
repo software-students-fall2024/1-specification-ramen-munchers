@@ -52,8 +52,7 @@ We aim to essentially make a social media application for movies; users can gath
 ## Activity Diagrams
 [![See Friend's List](activity%20diagram1.png "activity diagram1")](https://github.com/vernairesl/hello-world/issues/2#issue-2548601705)
 
-![gp0](https://github.com/user-attachments/assets/ec636d42-6f6c-4627-8590-e0d534a67338)
-
+![ActivitDiagram_MovieReview](https://github.com/software-students-fall2024/1-specification-ramen-munchers/blob/main/.github/ActivityDiagram_MovieReview.png)
 ## Clickable Prototype
 
 [Movie Review App Prototype](https://www.figma.com/design/04CjQ2JwE6KB3nIvpboZwU/Ramen-Munchers?node-id=0-1&t=Qs717d2YUvDeGarb-1)
