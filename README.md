@@ -50,7 +50,7 @@ We aim to essentially make a social media application for movies; users can gath
 - As a person's friend, I want to be able to see a list of compability between my movie taste and theirs, so that I can figure out who's movie taste is most similar to mine.
 
 ## Activity Diagrams
-[![See Friend's List](activity%20diagram1.png "activity diagram1")](https://github.com/vernairesl/hello-world/issues/2#issue-2548601705)
+![See Friend's List](https://github.com/software-students-fall2024/1-specification-ramen-munchers/blob/main/.github/activity%20diagram1.png)
 
 ![ActivitDiagram_MovieReview](https://github.com/software-students-fall2024/1-specification-ramen-munchers/blob/main/.github/ActivityDiagram_MovieReview.png)
 ## Clickable Prototype
