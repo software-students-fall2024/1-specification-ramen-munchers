@@ -51,6 +51,7 @@ We aim to essentially make a social media application for movies; users can gath
 
 ## Activity Diagrams
 ![As a person's friend, I want to be able to see a list of compability between my movie taste and theirs](https://ibb.co/x8fFXdN)
+
 Diagram to add a movie
 ![gp0](https://github.com/user-attachments/assets/996be06e-5dc2-4628-bdce-421cded9f318)
 
