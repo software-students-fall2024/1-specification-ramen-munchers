@@ -15,6 +15,9 @@ See instructions. Delete this line and replace with a list of the names of your 
     Andrew Qin
     https://github.com/Andrewqin1
 
+    Sandy Li
+    https://github.com/vernairesl
+
 ## Stakeholders
 
 ### Interview with [Name Here]
@@ -31,7 +34,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Product Vision Statement
 
-We aim to make an application where users can record their rating of movies.  Their ratings of each movie will be put into a list with other movies they have rated.  Friends can view user's activity and the user has a feed where they can view their friends activity.  There is also a search feature where users can search for movies or other members.  They will be able to see Other users ratings of movies.
+We aim to make an application where users can record their rating of movies. Their ratings of each movie will be put into a list with other movies they have rated. Friends can view user's activity and the user has a feed where they can view their friends activity. There is also a search feature where users can search for movies or other members. They will be able to see other users ratings of movies.
 
 ## User Requirements
 
