@@ -34,7 +34,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Product Vision Statement
 
-We aim to make an application where users can record their rating of movies. Their ratings of each movie will be put into a list with other movies they have rated. Friends can view user's activity and the user has a feed where they can view their friends activity. There is also a search feature where users can search for movies or other members. They will be able to see other users ratings of movies.
+We aim to essentially make a social media application for movies; users can gather their ratings and thoughts of movies into a list, explore their top genres and get recommendations, and also see other people's activity and their thoughts on certain movies.
 
 ## User Requirements
 
@@ -55,4 +55,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Movie Review App Prototype](https://www.figma.com/design/04CjQ2JwE6KB3nIvpboZwU/Ramen-Munchers?node-id=0-1&t=Qs717d2YUvDeGarb-1)
