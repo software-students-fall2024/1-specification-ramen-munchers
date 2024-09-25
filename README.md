@@ -50,7 +50,7 @@ We aim to essentially make a social media application for movies; users can gath
 - As a person's friend, I want to be able to see a list of compability between my movie taste and theirs, so that I can figure out who's movie taste is most similar to mine.
 
 ## Activity Diagrams
-![As a person's friend, I want to be able to see a list of compability between my movie taste and theirs](https://ibb.co/x8fFXdN)
+![See Friend's List](activity%20diagram1.png "activity diagram1")
 
 ![gp0](https://github.com/user-attachments/assets/ec636d42-6f6c-4627-8590-e0d534a67338)
 
